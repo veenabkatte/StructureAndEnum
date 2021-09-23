@@ -1,0 +1,14 @@
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.exe
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.deps.json
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.runtimeconfig.json
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.runtimeconfig.dev.json
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.dll
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\bin\Debug\netcoreapp3.1\StructureAndEnum.pdb
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.csproj.AssemblyReference.cache
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.AssemblyInfoInputs.cache
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.AssemblyInfo.cs
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.csproj.CoreCompileInputs.cache
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.dll
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.pdb
+E:\github_jk\self\StructureAndEnum\StructureAndEnum\StructureAndEnum\StructureAndEnum\obj\Debug\netcoreapp3.1\StructureAndEnum.genruntimeconfig.cache
